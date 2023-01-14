@@ -1,5 +1,5 @@
-# maendeleolab_prefixList
-![GitHub commit activity](https://img.shields.io/github/last-commit/maendeleolab/maendeleolab_prefixList)
+# maendeleolab_natGateway
+![GitHub commit activity](https://img.shields.io/github/last-commit/maendeleolab/maendeleolab_natGateway)
 
 <img src="/images/banner.png" width=400>
 
